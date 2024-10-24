@@ -1,0 +1,13 @@
+# This is a simple Ecommerce Shopping  user guide/ 
+ 
+# To instal the Ecommerce : 
+ 
+# 1-Create a database in mysql type: utf8-general ci. 
+# 2-Execute the file .sql | you will find it named ecommerce.sql 
+# 3-Go to config / database.sql and: 
+a- set your hostname 
+b- set your username 
+c- set the password 
+d- set the database name. 
+ 
+# 3-enjoy
